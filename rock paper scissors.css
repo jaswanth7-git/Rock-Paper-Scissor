@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(6, 48, 8);
+}
+.head{
+    color: rgb(202, 173, 42);
+    margin-left: 15%;
+    margin-right: 13%;
+    margin-top: 6cm;
+
+}
+.flex-box-container{
+     
+     margin-left: 13%;
+     margin-right: 13%;
+     flex-wrap: wrap;
+
+}
+img{
+    padding: 15px;
+
+}
+img:hover{
+    box-shadow: 15px 10px 50px rgb(199, 150, 15);
+}
+.flex-box-container{
+    justify-content: space-around;
+    border: black solid 5px;
+   
+    padding-left: 10cm;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+    
+}
+button{
+    margin-left: 20cm;
+    width:21%;
+    margin-bottom: 3cm;
+  
+}
+h1{
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px,20px,20px,20px;
+
+}
